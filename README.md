@@ -1,8 +1,9 @@
 # Hi there, I'm Dea 👋
 
 💻 Student • Programmer • Problem Solver
-
 Front-end Developer based in India
+
+
 ---
 
 # 💻 Tech Stack:
